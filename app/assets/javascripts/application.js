@@ -12,4 +12,13 @@
 //
 //= require rails-ujs
 //= require turbolinks
+//= require jquery.js
+//= require jquery-migrate-1.1.1.js
+//= require script.js
+//= require jquery.equalheights.js
+//= require superfish.js
+//= require jquery.responsivemenu.js
+//= require jquery.mobilemenu.js
+//= require jquery.easing.1.3.js
+//= require camera.js
 //= require_tree .
