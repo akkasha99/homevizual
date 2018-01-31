@@ -21,4 +21,6 @@
 //= require jquery.mobilemenu.js
 //= require jquery.easing.1.3.js
 //= require camera.js
+//= require jquery.carouFredSel-6.1.0-packed.js
+//= require jquery.touchSwipe.min.js
 //= require_tree .

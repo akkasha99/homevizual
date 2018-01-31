@@ -1,7 +1,7 @@
-/**/
-@import "../stylesheets/reset.css";
-@import "../stylesheets/skeleton.css";
-@import "../stylesheets/superfish.css";
+
+@import "reset.css";
+@import "skeleton.css";
+@import "superfish.css";
 
 html {
     width: 100%;
@@ -19,7 +19,7 @@ a[href^="tel:"] {
 body {
     font: 13px/20px Arial, Helvetica, sans-serif;
     color: #525252;
-    background-color: #322f2f;
+    background-color: #322f2f!important;
     position: relative;
     min-width: 960px;
     height: 100%;
@@ -244,12 +244,12 @@ er*/
 
 header {
     display: block;
-    padding-top: 37px;
+    padding-top: 37px!important;
     background-color: #322f2f;
 }
 
 header {
-    padding-bottom: 38px;
+    padding-bottom: 38px!important;
 
 }
 
@@ -477,8 +477,8 @@ address dt p {
 /************Footer***********/
 
 footer {
-    display: block;
-    padding: 29px 20px 29px 0px;
+    display: block!important;
+    padding: 29px 20px 29px 0px!important;
     display: block;
     color: #fff;
     text-transform: uppercase;
