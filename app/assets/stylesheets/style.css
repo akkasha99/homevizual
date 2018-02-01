@@ -1,7 +1,7 @@
 
-@import "reset.css";
-@import "skeleton.css";
-@import "superfish.css";
+/*@import "reset.css";*/
+/*@import "skeleton.css";*/
+/*@import "superfish.css";*/
 
 html {
     width: 100%;
@@ -17,7 +17,7 @@ a[href^="tel:"] {
 }
 
 body {
-    font: 13px/20px Arial, Helvetica, sans-serif;
+    font: 13px/20px Arial, Helvetica, sans-serif !important;
     color: #525252;
     background-color: #322f2f!important;
     position: relative;
@@ -89,7 +89,7 @@ ul.list li a:hover:after {
 }
 
 h2 {
-    font-size: 36px;
+    font-size: 36px!important;
     line-height: 36px;
     text-transform: uppercase;
     color: #322f2f;
@@ -97,7 +97,7 @@ h2 {
 }
 
 h3 {
-    font-size: 16px;
+    font-size: 16px!important;
     line-height: 20px;
 }
 
